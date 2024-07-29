@@ -187,15 +187,6 @@
     "Category": "Natural Wonder",
     "Latitude": 19.4933,
     "Longitude": -102.2511
-  },
-  {
-    "Name": "Great Barrier Reef",
-    "Location": "Queensland, Australia",
-    "Details": "The world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Great_Barrier_Reef.jpg",
-    "Category": "Underwater",
-    "Latitude": -18.2871,
-    "Longitude": 147.6992
-  } 
+  }
 ]
 
