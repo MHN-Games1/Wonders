@@ -3,7 +3,7 @@
     "Name": "Great Pyramid of Giza",
     "Location": "Giza, Egypt",
     "Details": "The oldest and only surviving wonder of the original Seven Wonders of the Ancient World, built as a tomb for the Egyptian Pharaoh Khufu.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/pyramid.jpg",
     "Category": "Ancient World",
     "Latitude": 29.9792,
     "Longitude": 31.1342
@@ -12,7 +12,7 @@
     "Name": "Hanging Gardens of Babylon",
     "Location": "Babylon, Iraq",
     "Details": "A legendary terraced garden, described as an extraordinary feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hanging_Gardens_of_Babylon.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/gardens.jpg",
     "Category": "Ancient World",
     "Latitude": 32.5364,
     "Longitude": 44.4200
@@ -21,7 +21,7 @@
     "Name": "Statue of Zeus at Olympia",
     "Location": "Olympia, Greece",
     "Details": "A giant seated figure of Zeus, about 12 meters tall, made by the sculptor Phidias around 435 BCE.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Statue_of_Zeus.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/zeus.jpg",
     "Category": "Ancient World",
     "Latitude": 37.6379,
     "Longitude": 21.6296
@@ -30,7 +30,7 @@
     "Name": "Temple of Artemis at Ephesus",
     "Location": "Ephesus, Turkey",
     "Details": "A large temple dedicated to the goddess Artemis, completed around 550 BCE, known for its grandeur and artistic beauty.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Temple_of_Artemis_-_Antipater_Virgil.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/artemis.jpg",
     "Category": "Ancient World",
     "Latitude": 37.9497,
     "Longitude": 27.3634
@@ -39,7 +39,7 @@
     "Name": "Mausoleum at Halicarnassus",
     "Location": "Bodrum, Turkey",
     "Details": "A tomb built for Mausolus, a satrap of the Persian Empire, and his wife Artemisia, around 350 BCE. It stood approximately 45 meters tall.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mausoleum_of_Halicarnassus.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/halicarnassus.jpg",
     "Category": "Ancient World",
     "Latitude": 37.0379,
     "Longitude": 27.4241
@@ -48,7 +48,7 @@
     "Name": "Colossus of Rhodes",
     "Location": "Rhodes, Greece",
     "Details": "A giant statue of the sun god Helios, erected in the city of Rhodes around 280 BCE. It stood approximately 33 meters high.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Colossus_of_Rhodes_%28illustration_by_Sidney_Barrett%29.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/colossus.jpg",
     "Category": "Ancient World",
     "Latitude": 36.4510,
     "Longitude": 28.2278
@@ -57,7 +57,7 @@
     "Name": "Lighthouse of Alexandria (Pharos of Alexandria)",
     "Location": "Alexandria, Egypt",
     "Details": "A towering lighthouse built by the Ptolemaic Kingdom between 280 and 247 BCE on the island of Pharos. It was estimated to be at least 100 meters tall.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pharos_of_Alexandria_001.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/alexandria.jpg",
     "Category": "Ancient World",
     "Latitude": 31.2135,
     "Longitude": 29.8853
@@ -66,7 +66,7 @@
     "Name": "Great Wall of China",
     "Location": "China",
     "Details": "A series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along the northern borders of China to protect against invasions.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Wall_of_China_July_2006.JPG",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/china.jpg",
     "Category": "New7Wonders",
     "Latitude": 40.4319,
     "Longitude": 116.5704
@@ -75,7 +75,7 @@
     "Name": "Petra",
     "Location": "Jordan",
     "Details": "An archaeological city famous for its rock-cut architecture and water conduit system, established as early as 312 BCE.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petra_Jordan_BW_21.JPG",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/petra.jpg",
     "Category": "New7Wonders",
     "Latitude": 30.3285,
     "Longitude": 35.4444
@@ -84,7 +84,7 @@
     "Name": "Christ the Redeemer",
     "Location": "Rio de Janeiro, Brazil",
     "Details": "An iconic statue of Jesus Christ, standing 30 meters tall, located at the peak of the 700-meter Corcovado mountain.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cristo_Redentor_-_Rio_de_Janeiro%2C_Brasil.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/redeemer.jpg",
     "Category": "New7Wonders",
     "Latitude": -22.9519,
     "Longitude": -43.2105
@@ -93,7 +93,7 @@
     "Name": "Machu Picchu",
     "Location": "Peru",
     "Details": "An Incan citadel set high in the Andes Mountains, built in the 15th century and later abandoned.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/machupicchu.jpg",
     "Category": "New7Wonders",
     "Latitude": -13.1631,
     "Longitude": -72.5450
@@ -102,7 +102,7 @@
     "Name": "Chichen Itza",
     "Location": "Yucatán, Mexico",
     "Details": "A large pre-Columbian archaeological site built by the Maya civilization, famous for its stepped pyramids, temples, and ball courts.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Chichen_Itza_3.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/itza.jpg",
     "Category": "New7Wonders",
     "Latitude": 20.6843,
     "Longitude": -88.5678
@@ -111,7 +111,7 @@
     "Name": "Roman Colosseum",
     "Location": "Rome, Italy",
     "Details": "An ancient amphitheater built between 70-80 AD, known for hosting gladiatorial contests and public spectacles.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Colosseo_2020.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/colosseum.jpg",
     "Category": "New7Wonders",
     "Latitude": 41.8902,
     "Longitude": 12.4922
@@ -120,7 +120,7 @@
     "Name": "Taj Mahal",
     "Location": "Agra, India",
     "Details": "A white marble mausoleum built by the Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal, completed in 1653.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/taj.jpg",
     "Category": "New7Wonders",
     "Latitude": 27.1751,
     "Longitude": 78.0421
@@ -129,7 +129,7 @@
     "Name": "Grand Canyon",
     "Location": "Arizona, USA",
     "Details": "A steep-sided canyon carved by the Colorado River, known for its visually overwhelming size and intricate and colorful landscape.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Grand_canyon_hermit_rd_dsc_3119.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/grandcanyon.jpg",
     "Category": "Natural Wonder",
     "Latitude": 36.1069,
     "Longitude": -112.1129
@@ -138,7 +138,7 @@
     "Name": "Great Barrier Reef",
     "Location": "Queensland, Australia",
     "Details": "The world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Great_Barrier_Reef.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/greatbarrierreef.jpg",
     "Category": "Natural Wonder",
     "Latitude": -18.2871,
     "Longitude": 147.6992
@@ -147,7 +147,7 @@
     "Name": "Harbor of Rio de Janeiro",
     "Location": "Rio de Janeiro, Brazil",
     "Details": "Known as Guanabara Bay, it is surrounded by scenic mountains and famous for its stunning views.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rio_de_Janeiro_Harbor_-_Brazil.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/harbour.jpg",
     "Category": "Natural Wonder",
     "Latitude": -22.9068,
     "Longitude": -43.1729
@@ -156,7 +156,7 @@
     "Name": "Mount Everest",
     "Location": "Nepal/Tibet",
     "Details": "Earth's highest mountain above sea level, standing at 8,848 meters (29,029 feet).",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mount_Everest_from_Gokyo_Ri_November_5%2C_2012.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/everest.jpg",
     "Category": "Natural Wonder",
     "Latitude": 27.9881,
     "Longitude": 86.9250
@@ -165,7 +165,7 @@
     "Name": "Aurora Borealis (Northern Lights)",
     "Location": "Polar regions (Arctic and Antarctic)",
     "Details": "Natural light displays predominantly seen in high-latitude regions around the Arctic and Antarctic.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aurora_Borealis_-_September_2005.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/aurora.jpg",
     "Category": "Natural Wonder",
     "Latitude": 0.0,
     "Longitude": 0.0
@@ -174,7 +174,7 @@
     "Name": "Victoria Falls",
     "Location": "Zambia/Zimbabwe",
     "Details": "One of the largest and most famous waterfalls in the world, with a width of 1,708 meters and a height of 108 meters.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Victoria_Falls%2C_Zambia-Zimbabwe.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/victoriafalls.jpg",
     "Category": "Natural Wonder",
     "Latitude": -17.9243,
     "Longitude": 25.8562
@@ -183,91 +183,10 @@
     "Name": "Parícutin Volcano",
     "Location": "Michoacán, Mexico",
     "Details": "A cinder cone volcano that erupted in a farmer's field in 1943 and continued to erupt for nine years, growing to a height of 424 meters.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Paricut%C3%ADn.jpg",
+    "Image": "https://raw.githubusercontent.com/MHN-Games1/Wonders/main/paricutinvolcano.jpg",
     "Category": "Natural Wonder",
     "Latitude": 19.4933,
     "Longitude": -102.2511
-  },
-  {
-    "Name": "SS Great Eastern",
-    "Location": "Great Britain",
-    "Details": "An iron sailing steamship designed by Isambard Kingdom Brunel, launched in 1858. It was the largest ship ever built at the time.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Great_Eastern_by_Henry_Aston_Barker_1791.jpg",
-    "Category": "Industrial World",
-    "Latitude": 0.0,
-    "Longitude": 0.0
-  },
-  {
-    "Name": "Bell Rock Lighthouse",
-    "Location": "Scotland, UK",
-    "Details": "The world's oldest surviving sea-washed lighthouse, built between 1807 and 1810 on Bell Rock in the North Sea.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bell_Rock_Lighthouse.jpg",
-    "Category": "Industrial World",
-    "Latitude": 56.4309,
-    "Longitude": -2.3872
-  },
-  {
-    "Name": "Brooklyn Bridge",
-    "Location": "New York City, USA",
-    "Details": "A hybrid cable-stayed/suspension bridge connecting Manhattan and Brooklyn, completed in 1883. It was the longest suspension bridge in the world at the time of its opening.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brooklyn_Bridge_Postdlf.jpg",
-    "Category": "Industrial World",
-    "Latitude": 40.7061,
-    "Longitude": -73.9969
-  },
-  {
-    "Name": "London Sewerage System",
-    "Location": "London, UK",
-    "Details": "A vast network of underground sewers designed by Joseph Bazalgette in response to the Great Stink of 1858, significantly improving the city's sanitation.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abbey_Mills_Pumping_Station_%28geograph_3818787%29.jpg",
-    "Category": "Industrial World",
-    "Latitude": 51.5171,
-    "Longitude": -0.0553
-  },
-  {
-    "Name": "First Transcontinental Railroad",
-    "Location": "USA",
-    "Details": "A contiguous railroad line constructed between 1863 and 1869 that connected the Eastern U.S. rail network with the Pacific coast at San Francisco.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Transcontinental_Railroad.jpg",
-    "Category": "Industrial World",
-    "Latitude": 0.0,
-    "Longitude": 0.0
-  },
-  {
-    "Name": "Panama Canal",
-    "Location": "Panama",
-    "Details": "An artificial 82 km waterway that connects the Atlantic and Pacific Oceans, opened in 1914, significantly reducing the maritime travel distance between the east and west coasts of the Americas.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Panama_Canal_Locks.jpg",
-    "Category": "Industrial World",
-    "Latitude": 9.0800,
-    "Longitude": -79.6800
-  },
-  {
-    "Name": "Hoover Dam",
-    "Location": "Nevada/Arizona, USA",
-    "Details": "A concrete arch-gravity dam in the Black Canyon of the Colorado River, completed in 1936, providing flood control, hydroelectric power, and water storage.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hoover_Dam_2013.jpg",
-    "Category": "Industrial World",
-    "Latitude": 36.0156,
-    "Longitude": -114.7378
-  },
-  {
-    "Name": "Palau",
-    "Location": "Pacific Ocean",
-    "Details": "An archipelago of over 500 islands known for its rich marine biodiversity, clear waters, and pristine coral reefs.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Rock_Islands_Palau.jpg",
-    "Category": "Underwater",
-    "Latitude": 7.5149,
-    "Longitude": 134.5825
-  },
-  {
-    "Name": "Belize Barrier Reef",
-    "Location": "Belize",
-    "Details": "The second largest coral reef system in the world, stretching for 300 kilometers along the coast of Belize.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Belize_Barrier_Reef.jpg",
-    "Category": "Underwater",
-    "Latitude": 17.7389,
-    "Longitude": -88.0333
   },
   {
     "Name": "Great Barrier Reef",
@@ -277,42 +196,6 @@
     "Category": "Underwater",
     "Latitude": -18.2871,
     "Longitude": 147.6992
-  },
-  {
-    "Name": "Deep-sea Vents",
-    "Location": "Various locations",
-    "Details": "Hydrothermal vents found at the bottom of the ocean, known for unique ecosystems supported by chemosynthesis.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Deepsea_vent_sulfur_oxidizing_bacteria.jpg",
-    "Category": "Underwater",
-    "Latitude": 0.0,
-    "Longitude": 0.0
-  },
-  {
-    "Name": "Galápagos Islands",
-    "Location": "Ecuador",
-    "Details": "An archipelago of volcanic islands distributed around the equator, renowned for their unique species and contributions to Charles Darwin's theory of evolution.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Group_of_Gal%C3%A1pagos_islands.jpg",
-    "Category": "Underwater",
-    "Latitude": -0.9538,
-    "Longitude": -90.9656
-  },
-  {
-    "Name": "Lake Baikal",
-    "Location": "Russia",
-    "Details": "The world's deepest and oldest freshwater lake, containing about 20% of the world's unfrozen surface fresh water.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lake_Baikal.jpg",
-    "Category": "Underwater",
-    "Latitude": 53.5587,
-    "Longitude": 108.1650
-  },
-  {
-    "Name": "Northern Red Sea",
-    "Location": "Various countries (Egypt, Sudan, Saudi Arabia)",
-    "Details": "Known for its clear waters, rich marine biodiversity, and vibrant coral reefs.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Red_Sea_Coral.jpg",
-    "Category": "Underwater",
-    "Latitude": 22.0,
-    "Longitude": 38.0
-  }
+  } 
 ]
 
